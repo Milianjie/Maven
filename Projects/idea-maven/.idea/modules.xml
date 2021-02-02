@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/idea-maven-javase/idea-maven-javase.iml" filepath="$PROJECT_DIR$/idea-maven-javase/idea-maven-javase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea-maven-javaweb/idea-maven-javaweb.iml" filepath="$PROJECT_DIR$/idea-maven-javaweb/idea-maven-javaweb.iml" />
+    </modules>
+  </component>
+</project>

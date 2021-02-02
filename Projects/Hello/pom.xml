@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+          http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    
+	<!--上面的东西都是固定的-->
+    
+    <!--下面三个称之为坐标，三个值来指定项目的名称的唯一标识-->
+    
+    <!-- 公司或者组织的唯一标志，并且配置时生成的路径也是由此生成，这里先简写-->
+    <groupId>com.studymyself</groupId>
+    <!--项目名字-->
+    <artifactId>maven-01</artifactId>
+    <!--项目的版本号-->
+    <version>1.0-SNAPSHOT</version>
+	
+	<dependencies>
+   
+	<!--测试单元-->
+	<dependency>
+    <groupId>junit</groupId>
+    <artifactId>junit</artifactId>
+    <version>4.12</version>
+	<!--依赖作用范围-->
+    <scope>test</scope>
+	</dependency>
+	</dependencies>
+
+    
+</project>
